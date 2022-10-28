@@ -840,6 +840,7 @@ Table of Contents
   * [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
+  *  [FakesMail](https://fakesmail.com) - Unlimited free temp email or disposable email addresses with multiple domain name. No registration required.
   * [Tutanota](https://tutanota.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage. Which also partially [open source](https://github.com/tutao/tutanota), so you can opt to self-host.
   * [Validator.Pizza](https://www.validator.pizza/) — Free API to detect disposable emails
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
